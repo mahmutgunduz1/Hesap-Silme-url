@@ -1,6 +1,14 @@
 # Hesap-Silme-url
 hesap silme bilgileri
 
-Togemi uygulamasında hesabınızı ve verilerinizi silmek için, lütfen mahmutgundzz@gmail.com adresine “Hesap silme talebi” konulu bir e-posta gönderin. Talebiniz en geç 7 iş günü içinde yanıtlanacaktır.
+
+Togemi uygulamasındaki hesabınızı ve verilerinizi silmek için lütfen aşağıdaki adımları izleyin:
+
+1. Uygulamanın Ayarlar kısmına gidin.
+2. “Hesabımı Sil” seçeneğine dokunun.
+3. Tüm verileriniz kalıcı olarak silinecektir.
+
+Alternatif olarak bize e-posta yoluyla ulaşabilirsiniz:
+📧 mahmut@example.com
 
 

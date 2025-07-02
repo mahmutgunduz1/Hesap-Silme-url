@@ -9,6 +9,6 @@ Togemi uygulamasındaki hesabınızı ve verilerinizi silmek için lütfen aşa�
 3. Tüm verileriniz kalıcı olarak silinecektir.
 
 Alternatif olarak bize e-posta yoluyla ulaşabilirsiniz:
-📧 mahmut@example.com
+📧 mahmutgundzz@gmail.com
 
 
